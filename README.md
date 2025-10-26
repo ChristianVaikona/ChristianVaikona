@@ -6,8 +6,8 @@ When I'm not coding, you’ll find me photographing sports, helping lead retreat
 <p align="center">
   <i>"...Everyone to whom much was given, of him much will be required..."</i>
 </p>
-<p align="right">
-  — <i>Luke 12:48 ESV</i>
+<p align="middle">
+  <i>Luke 12:48 ESV</i>
 </p>
 
 ⭐️ Aspiring **Data Analyst / Data Scientist** who loves using data to tackle everything from sports analytics to real-world problems  
