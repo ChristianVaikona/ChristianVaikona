@@ -6,7 +6,7 @@ When I'm not coding, you’ll find me photographing sports, helping lead retreat
 <p align="center">
   <i>"...Everyone to whom much was given, of him much will be required..."</i>
 </p>
-<p align="middle">
+<p align="center">
   <i>Luke 12:48 ESV</i>
 </p>
 
