@@ -4,10 +4,10 @@ I'm Christian — England-born 🇬🇧, half Tongan 🇹🇴, and U.S.-living �
 When I'm not coding, you’ll find me photographing sports, helping lead retreats through my school’s ministry, or maybe on the Xbox. 
 
 <p align="center">
-  <i>"...Everyone to whom much was given, of him much will be required..."</i>
+  <i>"The only way to do great work is to love what you do"</i>
 </p>
 <p align="center">
-  <i>Luke 12:48 ESV</i>
+  -<i>Steve Jobs</i>
 </p>
 
 ⭐️ Aspiring **Data Analyst / Data Scientist** who loves using data to tackle everything from sports analytics to real-world problems  
