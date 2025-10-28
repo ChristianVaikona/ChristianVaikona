@@ -10,5 +10,4 @@ When I'm not coding, you’ll find me photographing sports, helping lead retreat
   -<i>Steve Jobs</i>
 </p>
 
-⭐️ Aspiring **Data Analyst / Data Scientist** who loves using data to tackle everything from sports analytics to real-world problems  
-👨‍💻 Currently building a **CFB Performance → NFL Draft Prediction Model** — check out the repo!
+⭐️ Aspiring **Data Analyst / Data Scientist** who loves using data to tackle everything from sports analytics to real-world problems
