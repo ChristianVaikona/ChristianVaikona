@@ -2,7 +2,7 @@
 
 I'm Christian, a student currently studying in San Diego, California
 
-England-born 🇬🇧, half Tongan 🇹🇴, and U.S.-living 🇺🇸
+England-born 🏴󠁧󠁢󠁥󠁮󠁧󠁿, half Tongan 🇹🇴, and U.S.-living 🇺🇸
 
 My multicultural upbringing has shaped my people-centered approach to problem-solving and my goal of using data and technology to create meaningful impact
 
