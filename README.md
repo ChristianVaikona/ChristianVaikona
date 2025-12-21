@@ -15,6 +15,7 @@ My multicultural upbringing has shaped my people-centered approach to problem-so
 
 ⭐️ Aspiring **Data Analyst / Data Scientist** - I plan to go into **Sports Analytics**
 
+
 Fun Facts:
  - I used to be a D1 (American) Football Player
  - I never drink energy drinks
