@@ -13,6 +13,9 @@ My multicultural upbringing has shaped my people-centered approach to problem-so
   -<i>Steve Jobs</i>
 </p>
 
-⭐️ Aspiring **Data Analyst / Data Scientist** to go into Sports Analytics
+⭐️ Aspiring **Data Analyst / Data Scientist** - I plan to go into **Sports Analytics**
 
-When I'm not coding, you’ll find me photographing sports, helping coordinate retreats for my school’s ministry, or maybe just hopping on the Xbox
+Fun Facts:
+ - I used to be a D1 (American) Football Player
+ - I never drink energy drinks
+ - Hobbies: Sports Photography, Lifting Weights, Hiking, Video Games
