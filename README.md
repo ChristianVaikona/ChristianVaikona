@@ -17,6 +17,6 @@ My multicultural upbringing has shaped my people-centered approach to problem-so
   
   
 Fun Facts:
- - I used to be a D1 (American) Football Player
+ - I used to be a D1 Football Player
  - I never drink energy drinks
  - Hobbies: Sports Photography, Lifting Weights, Hiking, Video Games
