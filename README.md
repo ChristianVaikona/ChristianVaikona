@@ -13,7 +13,7 @@ My multicultural upbringing has shaped my people-centered approach to problem-so
   -<i>Steve Jobs</i>
 </p>
 
-⭐️ Aspiring **Data Analyst / Data Scientist** - I plan to go into **Sports Analytics**
+⭐️ Aspiring **Data Analyst / Data Scientist** - I aspire to go into **Sports Analytics**
   
   
 Fun Facts:
